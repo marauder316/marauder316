@@ -1,9 +1,17 @@
 ### Hi there 👋
 
 This is gonna change as time goes along, I have absolutely no idea what I'm doing, so... uhh...
-Here:
+Here's my stats, I hope they'll improve as I learn new languages n' stuff:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marauder316&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marauder316&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
 <!--
 **marauder316/marauder316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
