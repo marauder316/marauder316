@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+This is gonna change as time goes along, I have absolutely no idea what I'm doing, so... uhh...
+Here:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marauder316&show_icons=true&theme=gruvbox)
 <!--
 **marauder316/marauder316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
