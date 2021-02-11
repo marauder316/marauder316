@@ -1,11 +1,14 @@
-### Hi there 👋
-
+### Hi there 👋🏾
 This is gonna change as time goes along, I have absolutely no idea what I'm doing, so... uhh...
 Here's my stats, I hope they'll improve as I learn new languages n' stuff:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marauder316&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marauder316&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### ChromeOS Rice
+Wallpaper's a Nissan burnt orange BNR-33 Skyline GT-R
+This IS NOT Debian, it's a Debian Crostini container. The whole thing was set up before I knew about Chromebrew
+
+![*Yus*](https://cdn.discordapp.com/attachments/808529781179547648/809232162821505064/CrOS-R33-Rice-Kukui.png)
 
 
 
