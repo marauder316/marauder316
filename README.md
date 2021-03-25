@@ -5,7 +5,7 @@ He/him
 This is gonna change as time goes along, I have absolutely no idea what I'm doing, so... uhh...
 Here's my stats, I hope they'll improve as I learn new languages n' stuff:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marauder316&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marauder316&show_icons=true&theme=nord)
 
 # Current Rice:
 
