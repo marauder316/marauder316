@@ -5,12 +5,13 @@ He/him
 This is gonna change as time goes along, I have absolutely no idea what I'm doing, so... uhh...
 Here's my stats, I hope they'll improve as I learn new languages n' stuff:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marauder316&show_icons=true&theme=nord)
-
 # Current Rice:
 
 ## Regolith 1.5.3 (20.04 LTS, i3-gaps, Gruvbox-Dark)
 ![*Nice n' warm...*](https://cdn.discordapp.com/attachments/635625917623828520/822651813831770142/Screenshot_from_2021-03-18_21-38-56.png)
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marauder316&show_icons=true&theme=nord)
+ 
 
 <!--
 ## Manjaro i3 Edition
